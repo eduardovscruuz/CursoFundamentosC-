@@ -1,0 +1,14 @@
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\bin\Debug\net8.0\Calculadora.exe
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\bin\Debug\net8.0\Calculadora.dll
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\obj\Debug\net8.0\Calculadora.dll
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+c:\Users\eduar\Documentos\Carreira - Programação\projetos\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
