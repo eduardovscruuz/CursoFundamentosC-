@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace TextEditor
+namespace EditorDeTexto
 {
     class Program
     {

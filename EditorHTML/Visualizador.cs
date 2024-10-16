@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 namespace EditorHTML
 {
 
-    public class Viewer
+    public class Visualizador
     {
 
         public static void Show(string text)

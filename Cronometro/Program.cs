@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Stopwatch
+namespace Cronometro
 {
     internal class Program
     {
@@ -37,11 +37,11 @@ namespace Stopwatch
         static void PreStart(int time)
         {
             Console.Clear();
-            Console.WriteLine("Ready...");
+            Console.WriteLine("Preparar...");
             Thread.Sleep(1000);
-            Console.WriteLine("Set...");
+            Console.WriteLine("Apontar...");
             Thread.Sleep(1000);
-            Console.WriteLine("Go!");
+            Console.WriteLine("Vai!");
             Thread.Sleep(1000);
 
             Start(time);
@@ -60,7 +60,7 @@ namespace Stopwatch
             }
 
             Console.Clear();
-            Console.WriteLine("Stopwatch finished!");
+            Console.WriteLine("Cronômetro finalizado!");
             Thread.Sleep(2000);
             Menu();
 
